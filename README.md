@@ -2,7 +2,7 @@
 Este proyecto permite transformar instrucciones ingresadas en código hexadecimal a instrucciones en lenguaje ensamblador entendibles para el simulador Z80
  
  GUÍA DE USUARIO
-- El programa se ejecuta desde un IDE.
+- El programa se ejecuta desde uel archivo Prueba3.py
 - Se leerá una instrucción por línea.
 - Cada línea de instrucción debe estar seguida de la anterior. Es decir justo en la siguiente línea.
 - Solo aceptará las instrucciones definidas para el procesador Z-80.
